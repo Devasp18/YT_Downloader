@@ -8,7 +8,7 @@
   <a href="https://github.com/Devasp18/YT_Downloader/releases/latest">
     <img src="https://img.shields.io/github/v/release/Devasp18/YT_Downloader" />
   </a>
-  <a href="[https://github.com/Devasp18/YT_Downloader/releases](https://github.com/Devasp18/YT_Downloader/releases/download/v1.0.0/YT.Video.Downloader.msi)">
+  <a href="[https://github.com/Devasp18/YT_Downloader/releases]">
     <img src="https://img.shields.io/github/downloads/Devasp18/YT_Downloader/total" />
   </a>
 </p>
