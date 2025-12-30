@@ -1,0 +1,45 @@
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.env
+.venv
+
+# ========================
+# PyInstaller
+# ========================
+build/
+dist/
+*.spec
+
+# ========================
+# Installer / Release files
+# ========================
+*.msi
+*.exe
+*.aip
+*.zip
+
+# ========================
+# Third-party binaries
+# ========================
+yt-dlp.exe
+ffmpeg/
+_internal/
+
+# ========================
+# Cache & logs
+# ========================
+*-cache/
+*.log
+
+# ========================
+# OS junk
+# ========================
+Thumbs.db
+desktop.ini
+.DS_Store
